@@ -8,7 +8,7 @@
 
 ![img_2.png](img_2.png)
 
-A Movie Library made with ReactJS using The Movie Database API
+A Modern Movie Library made with ReactJS using The Movie Database API
 
 ## Features
 
